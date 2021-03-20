@@ -10,7 +10,10 @@ Our companie can help with Social Media Marketing.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://cdhebert.github.io/hori-seo-n/
+
+## Screenshot
+
 
 ## Contribution
 Made with ❤️ by [your name]
