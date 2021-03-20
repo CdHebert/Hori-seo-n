@@ -17,4 +17,4 @@ https://cdhebert.github.io/hori-seo-n/
 
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Cody Hebert
