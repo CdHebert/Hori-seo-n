@@ -91,12 +91,12 @@ p {
     color: #ffffff;
 }
 
-.headings {
+.benefit-style h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-img {
+.benefit-style img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
