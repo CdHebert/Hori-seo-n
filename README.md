@@ -12,7 +12,8 @@ Our companie can help with Social Media Marketing.
 ## Website
 https://cdhebert.github.io/hori-seo-n/
 
-## Screenshot
+## Screenshot of homepage
+[Horiseon screenshot](/assets/images/screenshot-horiseon.png)
 
 
 ## Contribution
